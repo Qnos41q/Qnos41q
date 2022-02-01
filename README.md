@@ -32,6 +32,8 @@
  - 😎 Search me on Steam
 
  - 🐱‍👤 Oxydeteam.com
+  
+ - 👽 oxyde-team.cf 
  <p align="center">
   <h4> Rust | CS:GO | Sea of thieves </h4>
    </p>
