@@ -29,21 +29,14 @@
 
  - 🛸 I love games like Firewatch
  
- - I do fullstack and a bit of everything :heart:
- 
- - All About living life at its best.
- 
- 
+
  <p align="center">
   <h4> Rust | CS:GO | Sea of thieves </h4>
    </p>
 
 <!--  -->
 
-<p align="center" >
-<a href="https://github.com/anuraghazra/github-readme-stats"> 
-    <img  src="https://github-readme-stats.vercel.app/api?username=bornmay&&show_icons=true&theme=radical"/>
-  </a>
+
 
 </p>
 
