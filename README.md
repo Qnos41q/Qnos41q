@@ -25,13 +25,9 @@
   <h3> I`m the best gamer from my room</h3>
 </p>
 
- - 🥀 Learning Swift & Objective_C
- 
- - <i>with Javascript, Typescript, React and 69 others.</i>
-   
- - 🔭 SpaceX FanBoi, die for space😼
+ - 🥀 Learning Python 
 
- - 🛸 Into High Energy Physics and Astrophysics, i love shooting stars too.
+ - 🛸 I love games like Firewatch
  
  - I do fullstack and a bit of everything :heart:
  
