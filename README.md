@@ -29,7 +29,9 @@
 
  - 🛸 I love games like Firewatch
  
+ - 😎 Search me on Steam
 
+ - 🐱‍👤 Oxydeteam.com
  <p align="center">
   <h4> Rust | CS:GO | Sea of thieves </h4>
    </p>
