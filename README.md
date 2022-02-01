@@ -33,10 +33,9 @@
  
  - All About living life at its best.
  
- - 💬 Connect? lets get social 👉🏼[<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/social/twitter.svg" >](https://twitter.com/_hemant_joshi)
  
  <p align="center">
-  <h4> Full Stack | Typescript | Competitive Programming </h4>
+  <h4> Rust | CS:GO | Sea of thieves </h4>
    </p>
 
 <!--  -->
