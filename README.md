@@ -20,7 +20,7 @@
  
  
 <br />
-<img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/3FjEPbKqEPhPpmC8uY/giphy.gif" />
+<img align="right" height="270px" width="450px" alt="GIF" src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif" />
 <p align="center">
   <h3> I`m the best gamer from my room</h3>
 </p>
