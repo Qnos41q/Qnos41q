@@ -31,7 +31,7 @@
  
  - 😎 Search me on Steam
 
- - 🐱‍👤 Oxydeteam.com
+ - 🐱‍👤 [My site](https://qnos.me/)
   
  - 👽 oxyde-team.cf 
  <p align="center">
